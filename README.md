@@ -7,7 +7,7 @@ Fashion isn’t just about clothes; it’s a reflection of attitude, personality
 Every outfit tells a story — of elegance, strength, and individuality.  
 I designed this landing page to represent modern style, smooth animations, and bold typography.  
 
-# Desktop Preview
+# Mobile Preview
 ![Fashion Mode Preview](MobileView.png)
 
 ### 🛠️ Tech Used
