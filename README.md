@@ -8,7 +8,7 @@ Every outfit tells a story — of elegance, strength, and individuality.
 I designed this landing page to represent modern style, smooth animations, and bold typography.  
 
 # Desktop Preview
-![Fashion Mode Preview](MobileView)
+![Fashion Mode Preview](MobileView.png)
 
 ### 🛠️ Tech Used
 - HTML, CSS,   
